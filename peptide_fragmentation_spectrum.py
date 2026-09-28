@@ -189,21 +189,7 @@ b_ions, y_ions = compute_b_y_ions(peptide_seq)
 # plot peptide spectrum
 plot_spectrum(mz_value, int_value, b_ions, y_ions, tolerance = 0.05)
 
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1301 TYDSYLGDDYVR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1298 TYDSYLGDDYVR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 845  AAQKPDVLTTGGGNPVGDK
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1505 LITAIGDVVNHDPVVGDR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1506 LITAIGDVVNHDPVVGDR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1290 HSTVFDNLPNPEDR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1504 LITAIGDVVNHDPVVGDR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1508 LITAIGDVVNHDPVVGDR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1503 LITAIGDVVNHDPVVGDR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1013 IGDGMGDSEITAAR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1455 HADSVAELGEQIDNLQR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1507 LITAIGDVVNHDPVVGDR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1293 HSTVFDNLPNPEDR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1297 ITAIGDVVNHDPVVGDR
-# python Final_project_Giridharan.py 17mix_test2.mzxml.gz 1598 ESGYPQVFYGDMYGTK
+
 
 
 
