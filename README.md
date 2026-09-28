@@ -26,9 +26,6 @@ This project performs this comparison by:
 6. Annotating matched b- and y-ions on the experimental spectrum.
 7. Displaying the resulting annotated spectrum.
 
-The example commands in this repository were developed using the
-`17mix_test2.mzxml` dataset provided for the course.
-
 ## Methods
 
 ### Fragment ion calculation
@@ -46,7 +43,7 @@ If multiple experimental peaks fall within the tolerance window, the highest-int
 
 Only peaks with an intensity of at least 5% of the maximum intensity in the spectrum are considered for matching.
 
-### Example Dataset
+### Dataset
 The example commands in this repository were developed using the 17mix_test2.mzxml dataset provided for the course.
 
 The dataset itself is not included in this repository.
